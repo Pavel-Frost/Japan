@@ -521,7 +521,7 @@ textarea {
  
   .intro{
     min-height: 100vh;
-    background-image: url(https://github.com/Pavel-Frost/Japan/img/intro bacrount.jpg) no-repeat ;
+    background-image: url(../img/intro bacrount.jpg) no-repeat ;
     background-size: cover;
     padding-top: 263px;
     padding-bottom: 223px;
