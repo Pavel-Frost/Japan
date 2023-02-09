@@ -521,7 +521,7 @@ textarea {
  
   .intro{
     min-height: 100vh;
-    background-image: url(https://github.com/Pavel-Frost/Japan/blob/fde70ac502d43c098cf7888b8382e762d6973261/img/intro%20bacrount.jpg) no-repeat ;
+    background-image: url(https://github.com/Pavel-Frost/Japan/img/intro bacrount.jpg) no-repeat ;
     background-size: cover;
     padding-top: 263px;
     padding-bottom: 223px;
@@ -548,7 +548,7 @@ textarea {
 .search-form__filed{
     width: 297px;
     background-color: transparent;
-    background: url(../svg/Oval.svg) no-repeat left 6px;
+    background: url(./svg/Oval.svg) no-repeat left 6px;
     border: 0;
     border-bottom: 2px solid #BFC0C5;;
     margin-right: 60px;
@@ -651,7 +651,7 @@ img{
     line-height: 24px;
     color: #006DFE;
     text-decoration: none;
-    background: url(svg/arow.svg) no-repeat 95% center;
+    background: url(Japan/svg/arow.svg) no-repeat 95% center;
     transition: .2s all;
 }
 .benefits__card-more:hover, .benefits__card-more:focus{
